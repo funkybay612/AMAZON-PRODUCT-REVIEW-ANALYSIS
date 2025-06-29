@@ -1,2 +1,6 @@
-# AMAZON-PRODUCT-REVIEW-ANALYSIS
-My first project as a data analysis trainee at Incubator Hub
+# PROJECT TOPIC - AMAZON-PRODUCT-REVIEW-ANALYSIS
+
+##	Project Overview
+This project focuses on analyzing product and customer review data to generate insights that can guide product improvement, marketing strategies and customer engagement. The analysis was conducted using Microsoft excel, with a focus on building an interactive dashboard for business decision making.
+
+### Tools used
