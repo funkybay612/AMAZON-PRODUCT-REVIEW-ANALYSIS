@@ -33,3 +33,23 @@ The row data cleaned to ensure analysis readiness. Key step included:
 -	Product with the highest number of review
 -	Total number of product with 50% discount or more
 -	Top 5 in combination of rating and rating count
+### Dashboard Features
+-	Interactive filter – slice by Main category and price_bucket
+-	Bar & column charts – To show their comparisons
+####	Click here to view the DASHBOARD
+### Insight & Observations
+
+
+
+
+
+###	What I learned
+-	How to clean and structure messy Data using Excel
+-	Designing intuitive and professional excel dashboard
+-	Translating raw data into meaningful and actionable insights
+
+###	Contact
+If you would like to connect or ask questions
+-	LinkedIn [
+-	Email [ 
+
