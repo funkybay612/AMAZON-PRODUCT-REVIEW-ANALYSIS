@@ -39,7 +39,8 @@ The row data cleaned to ensure analysis readiness. Key step included:
 Click here to view the DASHBOARD(\Users\Admin\Pictures\Screenshots\Amazon review dashboard Screenshot.png)
 ### Insight & Observations
 - Electronics category have the highest number of reviews, revenue and product number, making it the most popular product.
-- Electronics category is one of the categories that have unique products under the three-price range bucket >₹500 of  <₹200,₹200–₹500,) with 3 for ₹200, 43 for ₹200–₹500 and 444 for ₹500.
+- Electronics category is one of the categories that have unique products under the three-price range bucket >₹500 of (<₹200,₹200–₹500,>₹500) with 3 for ₹200, 43 for ₹200–₹500 and 444 for ₹500.
+- Computer & Accesories categories is one of the categories that have unique products under the three-price range bucket of (<₹200,₹200–₹500,₹500) with 8 for <₹200, 63 for ₹200–₹500 and 304 for ₹500
 
 
 
