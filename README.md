@@ -48,13 +48,13 @@ The row data cleaned to ensure analysis readiness. Key step included:
 - Computer & Accesories categories is one of the categories that have unique products under the three-price range bucket of (<₹200,₹200–₹500,₹500) with 8 for <₹200, 63 for ₹200–₹500 and 304 for ₹500
 - Home & Kitchen category is one of the categories that have unique products under the three-price range bucket 0f (<₹200,₹200–₹500,₹500) with 3 for <₹200, 43 for ₹200–₹500, 444 for ₹500
 
-###	What I learned
+## 📝 What I learned
 -	How to clean and structure messy Data using Excel
 -	Designing intuitive and professional excel dashboard
 -	Translating raw data into meaningful and actionable insights
 
-###	Contact
+## 📞 Contact
 If you would like to connect or ask questions
--	LinkedIn [Taiwo Funke]
--	Email [ funkybay612@gmail.com]
+-	🌐 LinkedIn [Taiwo Funke]
+-	📧 Email [ funkybay612@gmail.com]
 
