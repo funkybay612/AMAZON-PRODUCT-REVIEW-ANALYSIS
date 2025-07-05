@@ -54,7 +54,7 @@ The row data cleaned to ensure analysis readiness. Key step included:
 -	Translating raw data into meaningful and actionable insights
 
 ## 📞 Contact
-If you would like to connect or ask questions
--	🌐 LinkedIn [Taiwo Funke]
+I’m open to internship role, full-time role, freelance projects, or collaboration and If you would like to connect or ask questions
+-	🌐 LinkedIn [https://www.linkedin.com/in/taiwo-funke-04a35a164]
 -	📧 Email [ funkybay612@gmail.com]
 
