@@ -1,17 +1,19 @@
-# PROJECT TOPIC - AMAZON-PRODUCT-REVIEW-ANALYSIS
+#  📊 PROJECT TOPIC - AMAZON-PRODUCT-REVIEW-ANALYSIS
 
-##	Project Overview
+## 🗂 Project Overview
 This project focuses on analyzing product and customer review data to generate insights that can guide product improvement, marketing strategies and customer engagement. The analysis was conducted using Microsoft excel, with a focus on building an interactive dashboard for business decision making.
 
-### Data source
+### 📎 Data source
 The primary source of data used in this project is Amazon casy study file and which was gotten from Incubator Hub using Amazon real life data.
-### Tools used
+
+### 🛠 Tools used
 - Microsoft excels
   - Data cleaning or wrangling
   - Calculated columns
   - Pivot tables
   - Data visualization (chart, slicers)
-### Data preparation
+    
+### 🎯 Data preparation
 The row data cleaned to ensure analysis readiness. Key step included:
 -	Removing duplicate to avoid repeated records
 -	Replacing blank cells with 0
@@ -20,7 +22,8 @@ The row data cleaned to ensure analysis readiness. Key step included:
 -	Splitting the product_category column and create new column as Main category for better readability
 -	Shortening overly long product_names and create new columns for simplicity in visualization
 -	Addition of calculated columns such as potential revenue, price bucket, combined score, rating below 1000
-### Key Metrics Analyzed
+  
+### 🔍 Key Metrics Analyzed
 -	Average discount percentage
 -	Product count per category
 -	Total review per category
@@ -33,11 +36,13 @@ The row data cleaned to ensure analysis readiness. Key step included:
 -	Product with the highest number of review
 -	Total number of product with 50% discount or more
 -	Top 5 in combination of rating and rating count
-### Dashboard Features
+  
+### 📊 Dashboard Features
 -	Interactive filter – slice by Main category and price_bucket
 -	Bar & column charts – To show their comparisons
-Click here to view the DASHBOARD(\Users\Admin\Pictures\Screenshots\Amazon review dashboard Screenshot.png)
-### Insight & Observations
+  ![Amazondashboard](https://github.com/user-attachments/assets/351baaf1-58dc-442c-8e6b-2e2820dc0c78)
+
+### 🧠 Insight & Observations
 - Electronics category have the highest number of reviews, revenue and product number, making it the most popular product.
 - Electronics category is one of the categories that have unique products under the three-price range bucket >₹500 of (<₹200,₹200–₹500,>₹500) with 3 for ₹200, 43 for ₹200–₹500 and 444 for ₹500.
 - Computer & Accesories categories is one of the categories that have unique products under the three-price range bucket of (<₹200,₹200–₹500,₹500) with 8 for <₹200, 63 for ₹200–₹500 and 304 for ₹500
